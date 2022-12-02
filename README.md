@@ -1,10 +1,8 @@
 # Actor-Graph-Visualization
 A data visualization project to visualize a dataset of the top 10,000 actors on imdb as a multi edged graph.
 
-Below is a large overview of the structure of the graph made using Gephi:
+I've used Gephi for graph vizualisations, all code is in the Jupyter notebook `dv_project.ipynb`.
 
-![](image.png)
+![what](image.png)
 
-I used the Fruchterman Reingold algorithm for the graph layout.
-
-I'll be uploading the statistical analysis as a Jupyter notebook soon.
+![lol](mst_final_nolabels_lowres.png)
